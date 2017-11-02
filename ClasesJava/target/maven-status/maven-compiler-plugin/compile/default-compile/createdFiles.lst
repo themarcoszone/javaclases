@@ -1,0 +1,6 @@
+com/globant/stock/dao/StockDao.class
+com/globant/stock/model/Stock.class
+com/globant/stock/bo/impl/StockBoImpl.class
+com/globant/stock/bo/StockBo.class
+com/globant/stock/dao/impl/StockDaoImpl.class
+com/globant/common/App.class
